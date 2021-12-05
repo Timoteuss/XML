@@ -1,0 +1,6 @@
+<xml>
+	<SQL>CreateDeleteDropInsertIntoSelectFromWhereJoin</SQL>
+	<DevTools>GoogleChrome_FireFox</DevTools>
+	<tools>HTTP_JSON_GitBash_VPN_ADB</tools>
+	<language>Python</language>
+
