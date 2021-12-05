@@ -1,0 +1,9 @@
+<xml>
+  <title>Can't_create_new_file_in_reopsitory,_when_you_click_on_the_create_button</title>
+  <StepToReproduce>
+    <1step>Open_github.com</1step>
+    <2step>Click_on_your_name_in_the_left_part_of_screen</2step>
+    <3step>Click_on_the_create_button</3step>
+  </StepToReproduce>
+  <ActualResult>New_file_is_not_created</ActualResult>
+  <ExpectedResult>New_file_will_be_created</ExpectedResult>
