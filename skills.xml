@@ -1,6 +1,7 @@
-<xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
 	<SQL>Create, Delete, Drop, Insert, Into, Select, From, Where, Join</SQL>
 	<DevTools>Google Chrome, FireFox</DevTools>
 	<tools>HTTP Postman JSON GitBash VPN ADB</tools>
 	<language>Python</language>
-
+</skills>
