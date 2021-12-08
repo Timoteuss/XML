@@ -1,6 +1,8 @@
-<xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
 	<film>Interstellar</film>
 	<serial>Sherlock</serial>
 	<food>Shaverma</food>
 	<season>Winter</season>
 	<Country_To_Visit>Czech</Country_To_Visit>
+</preferences>
