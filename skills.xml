@@ -1,6 +1,6 @@
 <xml>
-	<SQL>CreateDeleteDropInsertIntoSelectFromWhereJoin</SQL>
-	<DevTools>GoogleChrome_FireFox</DevTools>
-	<tools>HTTP_JSON_GitBash_VPN_ADB</tools>
+	<SQL>Create, Delete, Drop, Insert, Into, Select, From, Where, Join</SQL>
+	<DevTools>Google Chrome, FireFox</DevTools>
+	<tools>HTTP Postman JSON GitBash VPN ADB</tools>
 	<language>Python</language>
 
