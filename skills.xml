@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
-	<SQL>Create, Delete, Drop, Insert, Into, Select, From, Where, Join</SQL>
+	<SQL>Create, Delete, Drop, Insert Into, Select, From, Join, Union, Where, Order by</SQL>
+	<Terminal>pwd, mkdir, touch, cd, ls -la, vim, mv, cp, find, tail -f, head, less, date, $curl, $chmod +x</Terminal>
 	<DevTools>Google Chrome, FireFox</DevTools>
-	<tools>HTTP Postman JSON GitBash VPN ADB</tools>
-	<language>Python</language>
+	<tools>XML, JSON, GitBash, Postman, DBeaver - PostgreSQL, Charles, Android Studio, JMeter, Fiddler</tools>
+	<language>Python, JavaScript</language>
 </skills>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_report>
+	<Number>Bug-1</Number>
+	<Environment>Google Chrome 98.0.4758.82 (Официальная сборка), (64 бит), Windows 7 начальная</Environment>
+	<Severity>Critical</Severity>
+	<Priority>High</Priority>
+	<Summary>Не полностью отображается форма регистрации при нажатии на GET FREE TRIAL</Summary>
+	<Description>Во вкладке Resources/whitepaper/face-ar-sdk, при нажатии на GET FREE TRIAL форма регистрации отображается в расширенном виде, ввиду чего обрезаются части формы. Уменьшить форму невозможно, а растянуть можно.</Description>
+	<Preconditions>Зайти на сайт https://www.*****.com</Preconditions>
+	<Steps_To_Reproduce>
+		<step1>Перейти в Resources/whitepaper/face-ar-sdk</step1>
+		<step2>Нажать GET FREE TRIAL</step2>
+    </Steps_To_Reproduce>
+	<Actual_Result>Форма регистрации отображается не полностью. Не видно части полей.</Actual_Result>
+	<Expected_Result>Полностью отображается форма регистрации.</Expected_Result>
+	<Attachments>link</Attachments>
+	<Comments>Данный дефект также воспроизводится на следующих страницах:https://www.*****.com/***</Comments>
+	<Reporter>Тимофей Щукин</Reporter>
+</Bug_report>
