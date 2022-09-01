@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bug_report>
-  <title>Can't create new file in reopsitory, when you click on the create button</title>
+  <title>Can't create a new file in the reopsitory, when you click on the create button</title>
   <Steps_To_Reproduce>
     <step1>Open github.com</step1>
-    <step2>Click on your name in the left part of screen</step2>
+    <step2>Click on your name on the left side of the screen</step2>
     <step3>Click on the create button</step3>
   </Steps_To_Reproduce>
   <Actual_Result>New file is not created</Actual_Result>
