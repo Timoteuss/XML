@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <New>
-	<Full_name>Shchukin Timofey Sergeevich</Full_name>
-	<Age>27</Age>
-	<Number_Of_Pets>0</Number_Of_Pets>
-	<Future_Desired_Salary>1000$</Future_Desired_Salary>
+	<Full_name>Shchukin Timofey</Full_name>
+	<Age>29</Age>
+	<Profession>QA Engineer</Profession>
+	<Marital status>Married</Marital status>
+	<Future_Desired_Salary>2000$</Future_Desired_Salary>
 </New>
